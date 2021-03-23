@@ -1,0 +1,56 @@
+[{
+    "id": 1,
+    "nombre": "conejo",
+    "material": "tela",
+    "tamanio": 0.53,
+    "imgSrc": "../assets/imagenes/APEGO5.jpg"
+
+}, {
+    "id": 2,
+    "nombre": "cebra",
+    "material": "tela",
+    "tamanio": 0.48,
+    "imgSrc": "../assets/imagenes/APEGO3.jpg"
+}, {
+    "id": 3,
+    "nombre": "zorro",
+    "material": "tela",
+    "tamanio": 0.5,
+    "imgSrc": "../assets/imagenes/APEGO9.jpg"
+}, {
+    "id": 4,
+    "nombre": "conejo2",
+    "material": "tela",
+    "tamanio": 0.53,
+    "imgSrc": "../assets/imagenes/APEGO2.jpg"
+}, {
+    "id": 5,
+    "nombre": "cebra2",
+    "material": "tela",
+    "tamanio": 0.48,
+    "imgSrc": "../assets/imagenes/APEGO6.jpg"
+}, {
+    "id": 6,
+    "nombre": "zorro2",
+    "material": "tela",
+    "tamanio": 0.5,
+    "imgSrc": "../assets/imagenes/APEGO7.jpg"
+}, {
+    "id": 7,
+    "nombre": "conejo3",
+    "material": "tela",
+    "tamanio": 0.53,
+    "imgSrc": "../assets/imagenes/APEGO8.jpg"
+}, {
+    "id": 8,
+    "nombre": "cebra3",
+    "material": "tela",
+    "tamanio": 0.48,
+    "imgSrc": "../assets/imagenes/APEGO4.jpg"
+}, {
+    "id": 9,
+    "nombre": "zorro3",
+    "material": "tela",
+    "tamanio": 0.5,
+    "imgSrc": "../assets/imagenes/APEGO10.jpg"
+}]
